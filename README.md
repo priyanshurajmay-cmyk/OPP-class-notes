@@ -1,4 +1,4 @@
-# Map of Computer Science Notes
+# Map of Computer Science Notes 
 
 ## 1. Theoretical Computer Science
 
