@@ -2,7 +2,7 @@
 
 ## 1. Theoretical Computer Science 
 
-The foundation of computing, dealing with logic and mathematics.
+The foundation of computing, dealing with logic and mathematics. 
 
 ### Algorithms & Data Structures
 - **Algorithms:**
