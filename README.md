@@ -1,7 +1,7 @@
 # Map of Computer Science Notes 
 
 ## 1. Theoretical Computer Science 
- 
+  
 The foundation of computing, dealing with logic and mathematics. 
 
 ### Algorithms & Data Structures
